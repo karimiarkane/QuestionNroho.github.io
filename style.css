@@ -164,8 +164,8 @@ input , textarea{
 
   .wrapper{
   display: block;
-  padding: 5px 10px 5px 10px; 
-  width: 95%;
+  padding: 10px 15px 10px 15px; 
+  border-radius: 0;
 }
 .tqr{
   width: 100%;
