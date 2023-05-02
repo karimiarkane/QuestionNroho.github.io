@@ -60,7 +60,7 @@ body{
   
   font-size: 18px;
   font-weight: 500;
-  color: #595959;
+ 
 }
 .wrapper .tqr .qust_resp_box  .question_icon .arrow{
   font-size: 20px;
@@ -69,9 +69,10 @@ body{
 
 .wrapper .tqr .qust_resp_box  li p{
   font: 15px;
-  color: #595959;
-  width: 92%;
-  font-weight: 500;
+        width: 92%;
+    margin-left: 2%;
+    font-weight: 500;
+    color: #ffffff;
   display: none;
 }
 .wrapper .img_box .img{
@@ -160,11 +161,12 @@ input , textarea{
 @media  screen and (max-width :900px ) {
   .body{
     display: block;
+    background-color: #7dea;
   }
 
   .wrapper{
   display: block;
-  padding: 10px 15px 10px 15px; 
+  padding: 15px 20px 15px 20px; 
   border-radius: 0;
 }
 .tqr{
