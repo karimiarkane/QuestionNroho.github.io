@@ -155,6 +155,7 @@ input , textarea{
         outline: none;
         border: none;
         transition: .3s;
+        color: #fff;
         }
         .button:hover{
         background-color: #27ae60;
