@@ -64,7 +64,7 @@ body{
 }
 .wrapper .tqr .qust_resp_box  .question_icon .arrow{
   font-size: 20px;
-    color: #595959;
+    color : #202e59;
 }
 
 .wrapper .tqr .qust_resp_box  li p{
@@ -79,6 +79,7 @@ body{
         height: 100%;
         width: 100%;
         object-fit: contain;
+        
 }
 
 
@@ -109,7 +110,9 @@ h3,h1{
     margin-bottom: 10px;
     position: relative;
     padding-bottom: 10px;
-    margin-bottom: 10px;}
+    margin-bottom: 10px;
+    color : #202e59;
+  }
   
     h3:after , h1:after {
       content: '';
@@ -147,7 +150,7 @@ input , textarea{
         width: 100%;
         padding: 0.5rem 1rem;
         font-size: 1.1rem;
-        background-color: #2ecc71;
+        background-color : #202e59;
         cursor: pointer;
         outline: none;
         border: none;
